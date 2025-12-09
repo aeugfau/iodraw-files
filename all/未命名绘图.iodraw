@@ -35,7 +35,7 @@
           <mxGeometry x="556" y="8" width="224" height="82" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-11" value="Receive Data from USART1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="544" y="344" width="250" height="48" as="geometry" />
+          <mxGeometry x="542" y="140" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-12" value="rx_buffer has space?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="572" y="480" width="195" height="195" as="geometry" />
