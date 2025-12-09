@@ -53,7 +53,7 @@
           <mxGeometry x="729" y="480" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-17" value="Add null terminator&#xa;Send rx_buffer back" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1116" width="204" height="66" as="geometry" />
+          <mxGeometry x="894" y="610" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-18" value="Reset rx_index = 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="771" y="1254" width="192" height="48" as="geometry" />
@@ -97,13 +97,6 @@
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-13" target="pNAw2-Fu5xfgL9gwIvia-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-32" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-16" target="pNAw2-Fu5xfgL9gwIvia-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="867" y="1080" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-17" target="pNAw2-Fu5xfgL9gwIvia-18">
