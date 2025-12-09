@@ -44,7 +44,7 @@
           <mxGeometry x="686" y="748" width="225" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-14" value="Reset rx_index = 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="432" width="192" height="48" as="geometry" />
+          <mxGeometry x="480" y="392" width="192" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-15" value="Clear USART1 Flag" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="445" y="930" width="191" height="48" as="geometry" />
@@ -160,10 +160,10 @@
             <mxPoint x="360" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="460" as="sourcePoint" />
-            <mxPoint x="530" y="430" as="targetPoint" />
+            <mxPoint x="560" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
