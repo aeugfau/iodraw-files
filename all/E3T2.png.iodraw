@@ -31,11 +31,14 @@
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-66" value="Main Loop Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="725" y="730" width="172" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-67" target="pNAw2-Fu5xfgL9gwIvia-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-67" value="Check led_flag[0]" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="723" y="860" width="174" height="174" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-68" value="Set LED0 HIGH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="562" y="1580" width="163" height="48" as="geometry" />
+          <mxGeometry x="667.5" y="1095" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-69" value="Set LED0 LOW" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="1580" width="160" height="48" as="geometry" />
@@ -135,13 +138,6 @@
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-65" target="pNAw2-Fu5xfgL9gwIvia-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-102" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-67" target="pNAw2-Fu5xfgL9gwIvia-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="644" y="1544" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-103" value="0" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-67" target="pNAw2-Fu5xfgL9gwIvia-69">
