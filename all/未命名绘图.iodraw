@@ -47,7 +47,7 @@
           <mxGeometry x="480" y="392" width="192" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-15" value="Clear USART1 Flag" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="930" width="191" height="48" as="geometry" />
+          <mxGeometry x="480" y="470" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-16" value="Received data = &#39;\r&#39;?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="708" y="864" width="180" height="180" as="geometry" />
@@ -165,6 +165,9 @@
             <mxPoint x="530" y="460" as="sourcePoint" />
             <mxPoint x="560" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-45" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="328" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
