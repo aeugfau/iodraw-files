@@ -59,7 +59,7 @@
           <mxGeometry x="890" y="730" width="192" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-19" value="Clear USART1 Flag" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="703" y="1353" width="191" height="48" as="geometry" />
+          <mxGeometry x="718" y="800" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-20" value="Return from Interrupt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="1451" width="216" height="48" as="geometry" />
@@ -102,21 +102,6 @@
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-17" target="pNAw2-Fu5xfgL9gwIvia-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-34" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-16" target="pNAw2-Fu5xfgL9gwIvia-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="1080" />
-              <mxPoint x="730" y="1328" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.68;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-18" target="pNAw2-Fu5xfgL9gwIvia-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="867" y="1328" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-19" target="pNAw2-Fu5xfgL9gwIvia-20">
