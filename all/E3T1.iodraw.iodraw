@@ -13,7 +13,7 @@
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-3" value="USART1_Init" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lxPBXUTm4pWiz1Wt8x2l-1">
           <mxGeometry x="235" y="46" width="147" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-4" value="Start" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-4" value="Start" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="177" y="29" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-5" value="System Initialization" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
