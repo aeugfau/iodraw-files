@@ -31,16 +31,16 @@
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-9" value="2 Second Delay" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="705" width="168" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-10" value="USART1 Interrupt Handler&#xa;not shown in code" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-10" value="USART1 Interrupt Handler&#xa;not shown in code" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="168" width="245" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-11" value="Receive data to rx_buffer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-11" value="Receive data to rx_buffer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="284" width="244" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-12" value="Process received data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-12" value="Process received data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="524" y="420" width="216" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-13" value="Return from Interrupt" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-13" value="Return from Interrupt" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="524" y="557" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-4" target="lxPBXUTm4pWiz1Wt8x2l-5">
@@ -75,17 +75,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-10" target="lxPBXUTm4pWiz1Wt8x2l-11">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-10" target="lxPBXUTm4pWiz1Wt8x2l-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-11" target="lxPBXUTm4pWiz1Wt8x2l-12">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-11" target="lxPBXUTm4pWiz1Wt8x2l-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-12" target="lxPBXUTm4pWiz1Wt8x2l-13">
+        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-12" target="lxPBXUTm4pWiz1Wt8x2l-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -99,9 +99,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lxPBXUTm4pWiz1Wt8x2l-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
