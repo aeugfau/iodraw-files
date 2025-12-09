@@ -62,10 +62,10 @@
           <mxGeometry x="890" y="730" width="192" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-19" value="Clear USART1 Flag" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="718" y="800" width="191" height="48" as="geometry" />
+          <mxGeometry x="723.5" y="800" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-20" value="Return from Interrupt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="705.5" y="880" width="216" height="48" as="geometry" />
+          <mxGeometry x="711" y="880" width="216" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-4" target="pNAw2-Fu5xfgL9gwIvia-5">
           <mxGeometry relative="1" as="geometry">
