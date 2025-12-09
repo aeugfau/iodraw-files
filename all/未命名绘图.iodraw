@@ -32,13 +32,13 @@
           <mxGeometry x="547" y="-90" width="245" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-10" value="Check USART1 RXNE Flag" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="556" y="8" width="224" height="82" as="geometry" />
+          <mxGeometry x="557.5" y="-17" width="224" height="82" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-11" value="Receive Data from USART1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="542" y="140" width="250" height="48" as="geometry" />
+          <mxGeometry x="544.5" y="100" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-12" value="rx_buffer has space?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="572" y="480" width="195" height="195" as="geometry" />
+          <mxGeometry x="572" y="176.5" width="195" height="195" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-13" value="Store data in rx_buffer&#xa;Increment rx_index" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="686" y="748" width="225" height="66" as="geometry" />
