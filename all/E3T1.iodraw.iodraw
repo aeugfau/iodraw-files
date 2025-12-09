@@ -32,16 +32,16 @@
           <mxGeometry x="140" y="705" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-10" value="USART1 Interrupt Handler&#xa;not shown in code" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="464" y="20" width="245" height="66" as="geometry" />
+          <mxGeometry x="480" y="136" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-11" value="Receive data to rx_buffer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="464" y="136" width="244" height="49" as="geometry" />
+          <mxGeometry x="480" y="252" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-12" value="Process received data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="272" width="216" height="49" as="geometry" />
+          <mxGeometry x="494" y="388" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-13" value="Return from Interrupt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="409" width="216" height="49" as="geometry" />
+          <mxGeometry x="494" y="525" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lxPBXUTm4pWiz1Wt8x2l-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="lxPBXUTm4pWiz1Wt8x2l-4" target="lxPBXUTm4pWiz1Wt8x2l-5">
           <mxGeometry relative="1" as="geometry">
