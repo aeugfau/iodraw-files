@@ -28,13 +28,13 @@
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-8" value="2ms Delay" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="432" width="133" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-9" value="USART1 Interrupt Handler" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-9" value="USART1 Interrupt Handler" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="547" y="-90" width="245" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-10" value="Check USART1 RXNE Flag" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-10" value="Check USART1 RXNE Flag" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="-17" width="224" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-11" value="Receive Data from USART1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-11" value="Receive Data from USART1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="544.5" y="100" width="250" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-12" value="rx_buffer has space?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -77,12 +77,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-9" target="pNAw2-Fu5xfgL9gwIvia-10">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-9" target="pNAw2-Fu5xfgL9gwIvia-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNAw2-Fu5xfgL9gwIvia-26" value="Set" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-10" target="pNAw2-Fu5xfgL9gwIvia-11">
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-26" value="Set" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-10" target="pNAw2-Fu5xfgL9gwIvia-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -149,6 +149,9 @@
             <mxPoint x="550" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNAw2-Fu5xfgL9gwIvia-49" target="pNAw2-Fu5xfgL9gwIvia-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-49" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="318" width="50" height="30" as="geometry" />
         </mxCell>
@@ -163,6 +166,9 @@
         </mxCell>
         <mxCell id="pNAw2-Fu5xfgL9gwIvia-56" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNAw2-Fu5xfgL9gwIvia-57" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="428" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
