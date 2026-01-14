@@ -7,19 +7,19 @@
         <mxCell id="r_zl1_FpXvIL3K5G9vO_-1" value="Display Names" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="888" width="135" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-2" value="Peripheral Initializations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-2" value="Peripheral Initializations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="424" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-3" value="Systick_Init" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="r_zl1_FpXvIL3K5G9vO_-2">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-3" value="Systick_Init" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r_zl1_FpXvIL3K5G9vO_-2">
           <mxGeometry x="43" y="46" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-4" value="LED_GPIO_Init" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="r_zl1_FpXvIL3K5G9vO_-2">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-4" value="LED_GPIO_Init" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r_zl1_FpXvIL3K5G9vO_-2">
           <mxGeometry x="235" y="46" width="163" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-5" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-5" value="Start" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="185" y="20" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-6" value="System Initialization" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-6" value="System Initialization" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="129" y="119" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_zl1_FpXvIL3K5G9vO_-7" value="LCD Initialization" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
         <mxCell id="r_zl1_FpXvIL3K5G9vO_-29" value="Character displayed" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="694" y="1814" width="203" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-5" target="r_zl1_FpXvIL3K5G9vO_-6">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-5" target="r_zl1_FpXvIL3K5G9vO_-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -239,7 +239,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-6" target="r_zl1_FpXvIL3K5G9vO_-2">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-6" target="r_zl1_FpXvIL3K5G9vO_-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
