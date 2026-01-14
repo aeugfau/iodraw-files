@@ -67,19 +67,19 @@
         <mxCell id="r_zl1_FpXvIL3K5G9vO_-21" value="Get bitmap data for current row" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="693" y="980" width="204" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-22" value="Loop through 8 bits" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-22" value="Loop through 8 bits" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="696" y="1096" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-23" value="Bit is set?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-23" value="Bit is set?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="737" y="1195" width="117" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-24" value="Set pixel at x+i, y+j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-24" value="Set pixel at x+i, y+j" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="489" y="1384" width="201" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-25" value="Continue to next bit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-25" value="Continue to next bit" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="739" y="1384" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-26" value="Continue to next pixel" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-26" value="Continue to next pixel" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="685" y="1483" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_zl1_FpXvIL3K5G9vO_-27" value="Continue until all bits processed" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -191,33 +191,33 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-22" target="r_zl1_FpXvIL3K5G9vO_-23">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-22" target="r_zl1_FpXvIL3K5G9vO_-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-49" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-23" target="r_zl1_FpXvIL3K5G9vO_-24">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-49" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-23" target="r_zl1_FpXvIL3K5G9vO_-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="589" y="1348" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-50" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-23" target="r_zl1_FpXvIL3K5G9vO_-25">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-50" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-23" target="r_zl1_FpXvIL3K5G9vO_-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="1348" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-24" target="r_zl1_FpXvIL3K5G9vO_-26">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-24" target="r_zl1_FpXvIL3K5G9vO_-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="589" y="1458" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r_zl1_FpXvIL3K5G9vO_-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-25" target="r_zl1_FpXvIL3K5G9vO_-26">
+        <mxCell id="r_zl1_FpXvIL3K5G9vO_-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="r_zl1_FpXvIL3K5G9vO_-25" target="r_zl1_FpXvIL3K5G9vO_-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="1458" />
