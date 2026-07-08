@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ibYOCoqywY_OF2F25jro-1" value="&lt;pre style=&quot;overflow-x: auto; box-sizing: border-box; border-radius: 4px; max-width: 100%; margin: 0px; padding: 8px; color: rgb(191, 191, 191); font-size: 13px; text-align: start; background-color: rgb(25, 26, 27);&quot;&gt;&lt;code style=&quot;color: rgb(140, 140, 140); background-color: rgb(38, 38, 38); padding: 0px; border-radius: 3px; word-break: break-word; font-size: 0.9em;&quot;&gt;位置 (3 DOF)&lt;br&gt; &lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="ibYOCoqywY_OF2F25jro-1" value="&lt;pre style=&quot;overflow-x: auto; box-sizing: border-box; border-radius: 4px; max-width: 100%; margin: 0px; padding: 8px; color: rgb(191, 191, 191); font-size: 13px; text-align: start; background-color: rgb(25, 26, 27);&quot;&gt;&lt;code style=&quot;color: rgb(140, 140, 140); background-color: rgb(38, 38, 38); padding: 0px; border-radius: 3px; word-break: break-word; font-size: 0.9em;&quot;&gt;位置 (3 DOF)&lt;br&gt; &lt;/code&gt;刀尖点 (Xw, Yw, Zw)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
