@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ibYOCoqywY_OF2F25jro-1" value="&lt;h5 style=&quot;overflow-x: auto; box-sizing: border-box; border-radius: 4px; max-width: 100%; margin: 0px; padding: 8px; background-color: rgb(25, 26, 27); font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ibYOCoqywY_OF2F25jro-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ibYOCoqywY_OF2F25jro-2" value="&lt;pre style=&quot;overflow-x: auto; box-sizing: border-box; border-radius: 4px; max-width: 100%; margin: 0px; padding: 8px; font-size: 13px; background-color: rgb(25, 26, 27);&quot;&gt;&lt;pre style=&quot;overflow-x: auto; box-sizing: border-box; border-radius: 4px; max-width: 100%; margin: 0px; padding: 8px; color: rgb(191, 191, 191); text-align: start;&quot;&gt;&lt;code style=&quot;color: rgb(140, 140, 140); background-color: rgb(38, 38, 38); padding: 0px; border-radius: 3px; word-break: break-word; font-size: 0.9em;&quot;&gt;姿态 (2 DOF)&lt;br&gt;&lt;/code&gt;刀轴方向 (A, C)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
