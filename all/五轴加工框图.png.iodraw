@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ibYOCoqywY_OF2F25jro-11" value="&lt;b&gt;点 1: (X₁,Y₁,Z₁, A₁,C₁)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="140" height="30" as="geometry" />
+          <mxGeometry x="310" y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
