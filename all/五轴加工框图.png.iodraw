@@ -10,6 +10,12 @@
         <mxCell id="ibYOCoqywY_OF2F25jro-11" value="&lt;b&gt;点 2: (X₂,Y₂,Z₂, A₂,C₂)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ibYOCoqywY_OF2F25jro-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.986;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ibYOCoqywY_OF2F25jro-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
