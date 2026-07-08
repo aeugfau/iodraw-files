@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ibYOCoqywY_OF2F25jro-10" value="点 1: (X₁,Y₁,Z₁, A₁,C₁)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="148" width="140" height="30" as="geometry" />
+        <mxCell id="ibYOCoqywY_OF2F25jro-10" value="&lt;b&gt;点 1: (X₁,Y₁,Z₁, A₁,C₁)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
